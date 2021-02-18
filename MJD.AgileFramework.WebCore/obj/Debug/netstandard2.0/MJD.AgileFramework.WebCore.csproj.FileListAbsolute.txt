@@ -1,0 +1,13 @@
+E:\Study\Maojindao.Commerce.Project\MJD.AgileFramework.WebCore\bin\Debug\netstandard2.0\MJD.Commerce.Model.dll
+E:\Study\Maojindao.Commerce.Project\MJD.AgileFramework.WebCore\obj\Debug\netstandard2.0\MJD.AgileFramework.WebCore.csprojAssemblyReference.cache
+E:\Study\Maojindao.Commerce.Project\MJD.AgileFramework.WebCore\obj\Debug\netstandard2.0\MJD.AgileFramework.WebCore.AssemblyInfoInputs.cache
+E:\Study\Maojindao.Commerce.Project\MJD.AgileFramework.WebCore\obj\Debug\netstandard2.0\MJD.AgileFramework.WebCore.AssemblyInfo.cs
+E:\Study\Maojindao.Commerce.Project1\MJD.AgileFramework.WebCore\obj\Debug\netstandard2.0\MJD.AgileFramework.WebCore.csprojAssemblyReference.cache
+E:\Study\Maojindao.Commerce.Project1\MJD.AgileFramework.WebCore\obj\Debug\netstandard2.0\MJD.AgileFramework.WebCore.AssemblyInfoInputs.cache
+E:\Study\Maojindao.Commerce.Project1\MJD.AgileFramework.WebCore\obj\Debug\netstandard2.0\MJD.AgileFramework.WebCore.AssemblyInfo.cs
+E:\Study\Maojindao.Commerce.Project1\MJD.AgileFramework.WebCore\obj\Debug\netstandard2.0\MJD.AgileFramework.WebCore.csproj.CoreCompileInputs.cache
+E:\Study\Maojindao.Commerce.Project1\MJD.AgileFramework.WebCore\bin\Debug\netstandard2.0\MJD.AgileFramework.Common.dll
+E:\Study\Maojindao.Commerce.Project1\MJD.AgileFramework.WebCore\bin\Debug\netstandard2.0\MJD.AgileFramework.Core.dll
+E:\Study\Maojindao.Commerce.Project1\MJD.AgileFramework.WebCore\bin\Debug\netstandard2.0\MJD.Commerce.Model.dll
+E:\Study\Maojindao.Commerce.Project1\MJD.AgileFramework.WebCore\bin\Debug\netstandard2.0\MJD.AgileFramework.Common.pdb
+E:\Study\Maojindao.Commerce.Project1\MJD.AgileFramework.WebCore\bin\Debug\netstandard2.0\MJD.Commerce.Model.pdb

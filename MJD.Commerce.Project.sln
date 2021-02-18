@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Background", "Background", "{9B4334A8-66FB-4DB5-896B-ADB8988E6DD6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{C112B223-1D6A-41DE-A512-1E6BC05B9FF9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{D9577C86-D0EA-4C32-82C5-E34C9A6BA84B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MJD.Cormmerce.AuthenticationCenter", "MJD.Cormmerce.AuthenticationCenter\MJD.Cormmerce.AuthenticationCenter.csproj", "{CE34B97A-879B-4BD7-91A5-D748EEC99608}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MJD.AgileFramework.Common", "MJD.AgileFramework.Common\MJD.AgileFramework.Common.csproj", "{A5F741AD-A912-404B-9D35-33C684F1EF2C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MJD.AgileFramework.WebCore", "MJD.AgileFramework.WebCore\MJD.AgileFramework.WebCore.csproj", "{7F2F1A94-8392-454E-82D4-35AC2EA3CA7F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MJD.Commerce.Model", "MJD.Commerce.Model\MJD.Commerce.Model.csproj", "{4842BCCD-27A6-4C3C-8AAD-00BEB020FB66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MJD.AgileFramework.Core", "MJD.AgileFramework.Core\MJD.AgileFramework.Core.csproj", "{F87E5E03-FF4D-42F2-97BA-3DB5B0F203AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE34B97A-879B-4BD7-91A5-D748EEC99608}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE34B97A-879B-4BD7-91A5-D748EEC99608}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE34B97A-879B-4BD7-91A5-D748EEC99608}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE34B97A-879B-4BD7-91A5-D748EEC99608}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5F741AD-A912-404B-9D35-33C684F1EF2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5F741AD-A912-404B-9D35-33C684F1EF2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5F741AD-A912-404B-9D35-33C684F1EF2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5F741AD-A912-404B-9D35-33C684F1EF2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F2F1A94-8392-454E-82D4-35AC2EA3CA7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F2F1A94-8392-454E-82D4-35AC2EA3CA7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F2F1A94-8392-454E-82D4-35AC2EA3CA7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F2F1A94-8392-454E-82D4-35AC2EA3CA7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4842BCCD-27A6-4C3C-8AAD-00BEB020FB66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4842BCCD-27A6-4C3C-8AAD-00BEB020FB66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4842BCCD-27A6-4C3C-8AAD-00BEB020FB66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4842BCCD-27A6-4C3C-8AAD-00BEB020FB66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F87E5E03-FF4D-42F2-97BA-3DB5B0F203AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F87E5E03-FF4D-42F2-97BA-3DB5B0F203AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F87E5E03-FF4D-42F2-97BA-3DB5B0F203AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F87E5E03-FF4D-42F2-97BA-3DB5B0F203AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CE34B97A-879B-4BD7-91A5-D748EEC99608} = {9B4334A8-66FB-4DB5-896B-ADB8988E6DD6}
+		{A5F741AD-A912-404B-9D35-33C684F1EF2C} = {D9577C86-D0EA-4C32-82C5-E34C9A6BA84B}
+		{7F2F1A94-8392-454E-82D4-35AC2EA3CA7F} = {D9577C86-D0EA-4C32-82C5-E34C9A6BA84B}
+		{4842BCCD-27A6-4C3C-8AAD-00BEB020FB66} = {C112B223-1D6A-41DE-A512-1E6BC05B9FF9}
+		{F87E5E03-FF4D-42F2-97BA-3DB5B0F203AB} = {D9577C86-D0EA-4C32-82C5-E34C9A6BA84B}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C2B5106-5AA8-4F9B-9FB4-9656392B7BCF}
+	EndGlobalSection
+EndGlobal

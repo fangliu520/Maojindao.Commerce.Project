@@ -1,0 +1,4 @@
+E:\Study\Maojindao.Commerce.Project1\MJD.AgileFramework.Core\obj\Debug\netstandard2.0\MJD.AgileFramework.Core.csprojAssemblyReference.cache
+E:\Study\Maojindao.Commerce.Project1\MJD.AgileFramework.Core\obj\Debug\netstandard2.0\MJD.AgileFramework.Core.AssemblyInfoInputs.cache
+E:\Study\Maojindao.Commerce.Project1\MJD.AgileFramework.Core\obj\Debug\netstandard2.0\MJD.AgileFramework.Core.AssemblyInfo.cs
+E:\Study\Maojindao.Commerce.Project1\MJD.AgileFramework.Core\obj\Debug\netstandard2.0\MJD.AgileFramework.Core.csproj.CoreCompileInputs.cache

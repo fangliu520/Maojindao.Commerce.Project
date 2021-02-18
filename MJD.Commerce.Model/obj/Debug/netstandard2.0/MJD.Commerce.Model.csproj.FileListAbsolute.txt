@@ -1,0 +1,8 @@
+E:\Study\Maojindao.Commerce.Project1\MJD.Commerce.Model\bin\Debug\netstandard2.0\MJD.Commerce.Model.deps.json
+E:\Study\Maojindao.Commerce.Project1\MJD.Commerce.Model\bin\Debug\netstandard2.0\MJD.Commerce.Model.dll
+E:\Study\Maojindao.Commerce.Project1\MJD.Commerce.Model\bin\Debug\netstandard2.0\MJD.Commerce.Model.pdb
+E:\Study\Maojindao.Commerce.Project1\MJD.Commerce.Model\obj\Debug\netstandard2.0\MJD.Commerce.Model.AssemblyInfoInputs.cache
+E:\Study\Maojindao.Commerce.Project1\MJD.Commerce.Model\obj\Debug\netstandard2.0\MJD.Commerce.Model.AssemblyInfo.cs
+E:\Study\Maojindao.Commerce.Project1\MJD.Commerce.Model\obj\Debug\netstandard2.0\MJD.Commerce.Model.csproj.CoreCompileInputs.cache
+E:\Study\Maojindao.Commerce.Project1\MJD.Commerce.Model\obj\Debug\netstandard2.0\MJD.Commerce.Model.dll
+E:\Study\Maojindao.Commerce.Project1\MJD.Commerce.Model\obj\Debug\netstandard2.0\MJD.Commerce.Model.pdb

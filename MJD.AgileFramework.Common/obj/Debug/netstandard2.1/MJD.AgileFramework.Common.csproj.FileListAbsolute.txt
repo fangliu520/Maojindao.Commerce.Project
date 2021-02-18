@@ -1,0 +1,8 @@
+E:\Study\Maojindao.Commerce.Project1\MJD.AgileFramework.Common\bin\Debug\netstandard2.1\MJD.AgileFramework.Common.deps.json
+E:\Study\Maojindao.Commerce.Project1\MJD.AgileFramework.Common\bin\Debug\netstandard2.1\MJD.AgileFramework.Common.dll
+E:\Study\Maojindao.Commerce.Project1\MJD.AgileFramework.Common\bin\Debug\netstandard2.1\MJD.AgileFramework.Common.pdb
+E:\Study\Maojindao.Commerce.Project1\MJD.AgileFramework.Common\obj\Debug\netstandard2.1\MJD.AgileFramework.Common.AssemblyInfoInputs.cache
+E:\Study\Maojindao.Commerce.Project1\MJD.AgileFramework.Common\obj\Debug\netstandard2.1\MJD.AgileFramework.Common.AssemblyInfo.cs
+E:\Study\Maojindao.Commerce.Project1\MJD.AgileFramework.Common\obj\Debug\netstandard2.1\MJD.AgileFramework.Common.csproj.CoreCompileInputs.cache
+E:\Study\Maojindao.Commerce.Project1\MJD.AgileFramework.Common\obj\Debug\netstandard2.1\MJD.AgileFramework.Common.dll
+E:\Study\Maojindao.Commerce.Project1\MJD.AgileFramework.Common\obj\Debug\netstandard2.1\MJD.AgileFramework.Common.pdb
